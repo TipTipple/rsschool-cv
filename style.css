@@ -10,6 +10,10 @@ body {
     font-family: "Arial", sans-serif;
 }
 
+h2{
+    border-bottom: 1px solid rgba(65, 59, 59, 0.116);
+}
+
 .container{
     width: 100%;
     max-width: 1024px;
@@ -28,5 +32,9 @@ body {
 .header__text{}
 
 .summary{
-    margin-top: 120px;
+    margin-top: 160px;
+}
+
+.footer{
+    margin-top: 40px;
 }
