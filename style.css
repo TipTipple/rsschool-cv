@@ -1,8 +1,32 @@
+*{
+    box-sizing: inherit;
+}
+
 html {
     font-size: 14px;
 }
 
 body {
-    margin: 0;
     font-family: "Arial", sans-serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.header{
+}
+
+.header_img{
+    float: left; 
+    padding-right: 10px;
+    padding-bottom: 10px; 
+}
+
+.header__text{}
+
+.summary{
+    margin-top: 120px;
 }
