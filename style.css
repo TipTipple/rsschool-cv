@@ -1,0 +1,40 @@
+*{
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+}
+
+h2{
+    border-bottom: 1px solid rgba(65, 59, 59, 0.116);
+}
+
+.container{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.header{
+}
+
+.header_img{
+    float: left; 
+    padding-right: 10px;
+    padding-bottom: 10px; 
+}
+
+.header__text{}
+
+.summary{
+    margin-top: 160px;
+}
+
+.footer{
+    margin-top: 40px;
+}
